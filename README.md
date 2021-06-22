@@ -1,0 +1,1 @@
+DEPRECATED moved to https://registry.terraform.io/modules/terraform-iaac/efs/aws/latest
